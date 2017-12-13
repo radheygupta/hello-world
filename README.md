@@ -6,3 +6,5 @@ test commit
 created stage branch
 a new line added.
 
+new line1
+
